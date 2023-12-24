@@ -1,5 +1,5 @@
 let hero = "Israel"
-let xp = 10002git 
+let xp = 10002
 let rank = ""
 
 if(xp <= 1000 && xp >= 0){
